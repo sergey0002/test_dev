@@ -98,6 +98,12 @@ deploy.bat
  
 ## API
 
+### OpenAPI / Postman
+
+- OpenAPI спецификация: [openapi.yaml](./openapi.yaml)
+- Postman коллекция: [postman_collection.json](./postman_collection.json)
+ 
+
 ### 1. Создать batch уведомлений
 
 `POST /api/v1/notifications/bulk`
