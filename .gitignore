@@ -1,0 +1,7 @@
+.doc/
+loadtest/logs/*.log
+.env.laravel-docker.example.bak
+src/.phpunit.result.cache
+
+loadtest/k6/results/*.json
+src/database/*.sqlite
